@@ -13,7 +13,7 @@
 }
 
 body {
-    background-color: #f3f3f3;
+    background-color: #171616;
 }
 
 .tab-content {
@@ -27,7 +27,7 @@ body {
 @media (max-width: 767px) {
     .nav-tabs>li {
         float: none;
-        border: 1px solid #dddddd;
+        border: 1px solid #ff3636;
     }
 
     .nav-tabs>li.active>a {
